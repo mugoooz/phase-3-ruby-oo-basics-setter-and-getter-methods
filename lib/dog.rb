@@ -7,4 +7,13 @@ class Dog
         name
     end
 
+    def breed=(breed)
+        dogs_breed = breed
+    end
+
+    def breed
+        breed
+    end
+    
+
 end
